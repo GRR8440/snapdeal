@@ -1,4 +1,7 @@
 •	3.5 years of experience as a Build and Release Engineer with DevOps Methodologies as primary focus on CI (Continuous Integration), CD (Continuous Delivery), Pipeline, Build and Deploy automation.
 •	Good knowledge on Docker, docker Images and run containers, docker compose file, docker swarm and  complete build and deploy automation through Jenkins using docker.
 •	Configuration deployment on cloud infrastructure using playbooks, roles and ad-hoc commands using Ansible.
+•	Good knowledge on scripting like Groovy script for Jenkins, DSL (Docker specific language) for Docker file, Playbook (yaml or yml) for Ansible.
+•	Thorough knowledge of AIX 5.3, 6.1, 7.1, NPIV, SEA, LPAR, DLPAR, powerHA, powerVM HMC concepts.
+•	HP Proliant G5/G6/G7 servers running with RHEL 5.x & RHEL 6.x
 
